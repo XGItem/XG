@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="52719d1b-6957-4d77-950d-3852aa346b21" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="52719d1b-6957-4d77-950d-3852aa346b21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 4835a658617b48f615ac7a657684fc854f59a04b
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WZ9GZuq0wnZKdqLHPWBDlqhuC9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\新建文件夹\ETE\project\react-demo\src\pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52719d1b-6957-4d77-950d-3852aa346b21" name="Default Changelist" comment="" />
+      <created>1579346154724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579346154724</updated>
+      <workItem from="1579346155868" duration="4797000" />
+      <workItem from="1579400241823" duration="2689000" />
+      <workItem from="1579419348751" duration="4696000" />
+      <workItem from="1579504055130" duration="6925000" />
+      <workItem from="1579525249315" duration="321000" />
+      <workItem from="1579580835406" duration="2235000" />
+      <workItem from="1580695621855" duration="906000" />
+      <workItem from="1581250940170" duration="22000" />
+      <workItem from="1581409254593" duration="340000" />
+      <workItem from="1581489085003" duration="598000" />
+      <workItem from="1582290547458" duration="911000" />
+      <workItem from="1585660572890" duration="180000" />
+      <workItem from="1585800927333" duration="3217000" />
+      <workItem from="1585815931320" duration="5711000" />
+      <workItem from="1585822657823" duration="1014000" />
+      <workItem from="1585825796390" duration="1125000" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <workItem from="1585827125599" duration="700000" />
+=======
+      <workItem from="1585970675853" duration="14197000" />
+      <workItem from="1586061497440" duration="9602000" />
+      <workItem from="1586092630533" duration="181000" />
+      <workItem from="1586095543068" duration="575000" />
+      <workItem from="1586158567431" duration="14195000" />
+      <workItem from="1586235135150" duration="19320000" />
+      <workItem from="1586270740739" duration="612000" />
+      <workItem from="1586319390967" duration="222000" />
+>>>>>>> 4835a658617b48f615ac7a657684fc854f59a04b
+=======
+      <workItem from="1585970675853" duration="644000" />
+>>>>>>> xm
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/react-demo/src/pages/log.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
