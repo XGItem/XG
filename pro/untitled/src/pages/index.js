@@ -1,11 +1,6 @@
 import React from "react";
-import { Input} from "antd";
-import BannerAnim, { Element } from 'rc-banner-anim';
-import TweenOne from 'rc-tween-one';
-import 'rc-banner-anim/assets/index.css';
 
-const { Search } = Input;
-const BgElement = Element.BgElement;
+
 
 export default class Index extends React.Component{
     constructor(props){
@@ -17,7 +12,7 @@ export default class Index extends React.Component{
         return(
 
             <body>
-            <p>a</p>
+            <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
             </body>
         )
     }
