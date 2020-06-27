@@ -1,6 +1,6 @@
 import React ,{Component}from 'react';
 import './App.css';
-import creatBrowsHistory from 'history/createBrowserHistory'
+import creatBrowsHistory from "history/createBrowserHistory"
 import {BrowserRouter} from "react-router-dom";
 import Routers from "./pages/Routers";
 
