@@ -44,7 +44,7 @@
     "tiny-invariant": "^1.0.2",
     "tiny-warning": "^1.0.0",
     "value-equal": "^1.0.1",
-    "xlsx": "^0.16.2"
+    "xlsx": "^0.17.0"
   },
   "deprecated": false,
   "description": "Manage session history with JavaScript",
